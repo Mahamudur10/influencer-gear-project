@@ -146,7 +146,23 @@ header,.feature-product{
 .feature-right-text{
     width: 610px;
 }
-
+.feature-right-title{
+    columns: #0A0826;
+    font-size: 2.40rem;
+    font-weight: 600;
+}
+.feature-right-description{
+    font-size: 1rem;
+    font-weight: 600;
+    margin: 16px 0px;
+}
+.secondary-btn{
+    padding: 10px 24px;
+    background-color: #E02C6D;
+    border: none;
+    color: #FFFFFF;
+    font-weight: 600;
+}
 /* footer */
 footer{
     background-color: rgb(1, 1, 32);
